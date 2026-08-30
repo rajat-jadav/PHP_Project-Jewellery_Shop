@@ -3,7 +3,7 @@
 A jewellery e-commerce site built in PHP and MySQL, with a live virtual try-on feature — point your camera at your hand or face and see rings, bracelets, necklaces, or earrings placed on you in real time, right in the browser.
 
 ## Live Project Link
-//rajat.infinityfree.me/
+[Mahavir Ornaments](//rajat.infinityfree.me/)
 
 ## What's in here
 
